@@ -1,0 +1,145 @@
+{
+    "meta": {
+        "title": "Hasin Hayder | Portfolio",
+        "description": "Full Stack Developer and Instructor"
+    },
+    "theme_color": "rose",
+    "navigation": {
+        "visible": true,
+        "brand_name": "Portfolio",
+        "items": [
+            {
+                "label": "About",
+                "link": "#about"
+            },
+            {
+                "label": "Skills",
+                "link": "#skills"
+            },
+            {
+                "label": "Projects",
+                "link": "#projects"
+            },
+            {
+                "label": "Testimonials",
+                "link": "#testimonials"
+            },
+            {
+                "label": "Contact Me",
+                "link": "#contact"
+            },
+            {
+                "label": "Github",
+                "link": "https://github.com/hasinhayder"
+            }
+        ]
+    },
+    "hero": {
+        "visible": true,
+        "title": "Hi, I'm John Doe",
+        "subtitle": "Building elegant solutions for complex problems.",
+        "description": "I am a passionate software engineer and educator with over 15 years of experience in web development and system architecture.",
+        "cta_text": "View My Work",
+        "cta_link": "#projects",
+        "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    "about": {
+        "visible": true,
+        "title": "This is me!",
+        "content": "I specialize in backend development with PHP and Node.js, but I also love crafting beautiful user interfaces. My journey began in 2006, and since then, I've had the privilege of working with startups, agencies, and large corporations. When I'm not coding, I'm usually teaching the next generation of developers."
+    },
+    "skills": {
+        "visible": true,
+        "title": "Technical Skills",
+        "items": [
+            "PHP 8+",
+            "Laravel",
+            "JavaScript",
+            "React",
+            "Vue.js",
+            "MySQL",
+            "Redis",
+            "Docker",
+            "AWS",
+            "System Design",
+            "PostgreSQL"
+        ]
+    },
+    "projects": {
+        "visible": true,
+        "title": "Featured Projects",
+        "items": [
+            {
+                "name": "E-Learning Platform",
+                "description": "A scalable LMS built with Laravel and Vue.js serving 50k+ students.",
+                "tags": [
+                    "Laravel",
+                    "Vue",
+                    "MySQL"
+                ],
+                "link": "#",
+                "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+            },
+            {
+                "name": "SaaS Dashboard",
+                "description": "Real-time analytics dashboard using Node.js and WebSockets.",
+                "tags": [
+                    "Node.js",
+                    "React",
+                    "Redis"
+                ],
+                "link": "#",
+                "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+            },
+            {
+                "name": "Open Source CMS",
+                "description": "A lightweight, flat-file CMS tailored for developers.",
+                "tags": [
+                    "PHP",
+                    "Markdown",
+                    "Tailwind"
+                ],
+                "link": "#",
+                "image": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+            }
+        ]
+    },
+    "testimonials": {
+        "visible": true,
+        "title": "What People Say",
+        "items": [
+            {
+                "quote": "Hasin is a rare breed of developer who understands both the code and the business goals.",
+                "author": "Sarah Johnson",
+                "role": "CTO, TechCorp"
+            },
+            {
+                "quote": "His teaching style is incredibly clear and practical. I learned more in his workshop than in months of self-study.",
+                "author": "Mike Chen",
+                "role": "Senior Developer"
+            },
+            {
+                "quote": "Hasin is a rare breed of developer who understands both the code and the business goals.",
+                "author": "Sarah Johnson",
+                "role": "CTO, TechCorp"
+            },
+            {
+                "quote": "His teaching style is incredibly clear and practical. I learned more in his workshop than in months of self-study.",
+                "author": "Mike Chen",
+                "role": "Senior Developer"
+            }
+        ]
+    },
+    "contact": {
+        "visible": true,
+        "title": "Get In Touch",
+        "email": "me@example.com",
+        "linkedin": "https://linkedin.com",
+        "github": "https://github.com",
+        "twitter": "https://twitter.com"
+    },
+    "footer": {
+        "visible": true,
+        "copyright": "\u00a9 2025 Hasin Hayder. All rights reserved."
+    }
+}
